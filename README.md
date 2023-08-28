@@ -1,4 +1,5 @@
 # Cochos Automatizados
+Alunos: Laura Ziem, Nicolas Jung e Andreia Pasqual
 
 
 
