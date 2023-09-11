@@ -26,7 +26,7 @@ Criar dispositivos atuadores para cochos automatizados (suínos) com sistema par
 
 ### Ferramentas
 
-* [Ferramentas que utilizaremos]([https://docs.google.com/document/d/1SXg1yJ-53hXYu7tuXGHcjM1aN28tyYAie-UnzWZHalA/edit?usp=sharing](https://docs.google.com/document/d/1UoVif5_qjgL0iduwr1UXdYcY1oT4w5SeFsPdwwuIl3o/edit?usp=sharing))
+* [Ferramentas que utilizaremos](https://docs.google.com/document/d/1UoVif5_qjgL0iduwr1UXdYcY1oT4w5SeFsPdwwuIl3o/edit?usp=sharing)
 
 ### Protótipo
 
