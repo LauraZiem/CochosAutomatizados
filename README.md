@@ -36,9 +36,9 @@ Criar dispositivos atuadores para cochos automatizados (suínos) com sistema par
 
 * [Telas](https://docs.google.com/document/d/1Srip0iCpK87nwbNiGac-x0hoTICC0vJoD3WbqMOLsnQ/edit?usp=sharing)
 
-### SQL do Banco do projeto
+### SQL
 
-* [SQL](https://drive.google.com/file/d/1oehXuVrcjCw5lBnO85qSh19MTMFz7cg_/view?usp=sharing)
+* [SQL do Banco do projeto](https://drive.google.com/file/d/1oehXuVrcjCw5lBnO85qSh19MTMFz7cg_/view?usp=sharing)
 
 ### Aula
 
