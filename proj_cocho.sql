@@ -1,5 +1,7 @@
 CREATE DATABASE proj_cochos;
 
+USE proj_cochos;
+
 CREATE TABLE usuario (
     id         int             primary key,
     login      varchar(50)     not null,
@@ -38,4 +40,4 @@ CREATE TABLE historico (
     foreign key (id_ativacao) references ativacao(id),
     foreign key (id_cocho)    references cocho(id)
     
-)
+);
