@@ -16,6 +16,10 @@ Alunos: Laura Ziem, Nicolas Jung e Andreia Pasqual
 Criar dispositivos atuadores para cochos automatizados (suínos) com sistema para gerenciamento da quantidade de ração, podendo configurar quantidade e horário de ativação
 
 
+### Cronograma
+
+* [Cronograma](https://docs.google.com/spreadsheets/d/14g7i3P-mVJZcmuN8Zknxg4lKxrH3HIgSvj-XspRoBQI/edit?usp=sharing)
+
 
 ### Engenharia de Software
 
