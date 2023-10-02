@@ -1,0 +1,146 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+
+<head>
+  <meta charset="utf-8">
+  <meta content="width=device-width, initial-scale=1.0" name="viewport">
+
+  <title>Cochos Automatizados</title>
+
+  <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i|Raleway:300,300i,400,400i,500,500i,600,600i,700,700i|Poppins:300,300i,400,400i,500,500i,600,600i,700,700i" rel="stylesheet">
+
+  <link href="assets/vendor/aos/aos.css" rel="stylesheet">
+  <link href="assets/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+  <link href="assets/vendor/bootstrap-icons/bootstrap-icons.css" rel="stylesheet">
+  <link href="assets/vendor/boxicons/css/boxicons.min.css" rel="stylesheet">
+  <link href="assets/vendor/glightbox/css/glightbox.min.css" rel="stylesheet">
+  <link href="assets/vendor/swiper/swiper-bundle.min.css" rel="stylesheet">
+
+  <link href="assets/css/style.css" rel="stylesheet">
+</head>
+
+<body>
+
+  <header id="header-top" >
+    <div class="container d-flex align-items-center justify-content-between">
+      <nav id="navbar" class="navbar">
+        <ul>
+          <li><a class="nav-link scrollto active" href="index.html">Home</a></li>
+          <li><a class="nav-link scrollto" href="CadastroCochos.html">Cochos</a></li>
+          <li><a class="nav-link scrollto" href="quantidade.html">Quantidade</a></li>
+          <li><a class="nav-link scrollto" href="status.html">Status</a></li>
+        </ul>
+        <i class="bi bi-list mobile-nav-toggle"></i>
+      </nav>
+
+      <div>
+        <a  data-bs-toggle="modal" data-bs-target="#modalNotificacao"><i class="bi bi-bell"></i></a>
+      </div>
+
+    </div>
+  </header>
+
+  <section id="hero" class="d-flex align-items-center">
+  </br>
+    <div class="container">
+      
+      <img src="assets/img/porco.png" class="img-fluid" alt="">
+
+      <h4>Cochos Automatizados</h4>
+        
+    </div>
+
+  </section>
+
+  <main id="main">
+    <br/><br/><br/><br/><br/><br/>
+    
+    <section id="pricing" class="pricing">
+
+      <div id="cochos-reg">
+
+        <h3>Cadastro Cocho:</h3>
+        
+        <div class="input-group input-group-sm mb-1">
+          <span class="input-group-text" id="inputGroup-sizing-sm">Nome do Cocho:</span>
+          <input id="name-input" type="text" class="form-control" aria-label="Sizing example input" aria-describedby="inputGroup-sizing-sm">
+        </div>
+
+        </br>
+        <div class="input-group input-group-sm mb-1">
+          <span class="input-group-text" id="inputGroup-sizing-sm">Horários:</span>
+          <input id="time-input" type="text" class="form-control" aria-label="Sizing example input" aria-describedby="inputGroup-sizing-sm">
+        </div>
+        </br>
+        <div class="input-group input-group-sm mb-1">
+          <span class="input-group-text" id="inputGroup-sizing-sm">Quantidade:</span>
+          <input id="quant-input" type="text" class="form-control" aria-label="Sizing example input" aria-describedby="inputGroup-sizing-sm">
+        </div>
+        </br>
+        <button id="confirm-btn" type="button" class="btn btn-outline-success">Confirmar</button>
+      </br>
+        <table>
+            <thead>
+                <tr>
+                    <th>ID</th>
+                    <th>Nome</th>
+                    <th>Horários</th>
+                    <th>Quantidade</th>
+                    <th>Acoes</th>
+                </tr>
+            </thead>
+            <tbody id="table-body"></tbody>
+        </table>
+      </div>
+
+    </section>
+  </main>
+
+  <header id="header-bot" >
+    <div class="container d-flex align-items-center justify-content-between">
+
+      <a class="nav-link scrollto active" href="index.html"><i class="bi bi-house" ></i> </a>
+      <a class="nav-link scrollto" href="CadastroCochos.html"><i class="bi bi-piggy-bank"></i></a>
+      <a class="nav-link scrollto" href="quantidade.html"><i class="bi bi-bar-chart"></i> </a>
+      <a class="nav-link scrollto" href="status.html"><i class="bi bi-gear"></i> </a>
+        
+    </div>
+    <div class="container d-flex align-items-center justify-content-between">
+      <a class="nav-link scrollto active" href="index.html">Home</a>
+      <a class="nav-link scrollto" href="CadastroCochos.html">Cochos</a>
+      <a class="nav-link scrollto" href="quantidade.html">Quant</a>
+      <a class="nav-link scrollto" href="status.html">Status</a>
+        
+    </div>
+  </header>
+
+  <div class="modal fade" id="modalNotificacao" tabindex="-1" aria-hidden="true">
+    <div class="modal-dialog">
+      <div class="modal-content">
+        <div class="modal-header">
+          <h1 class="modal-title fs-5" id="">Notificações</h1>
+          <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+        </div>
+        <div class="modal-body">
+          Fazer a tela de notificações
+        </div>
+        <div class="modal-footer">
+          <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Fechar</button>
+          <button type="button" class="btn btn-primary">Salvar</button>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- Vendor JS Files -->
+  <script src="assets/vendor/aos/aos.js"></script>
+  <script src="assets/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+  <script src="assets/vendor/glightbox/js/glightbox.min.js"></script>
+  <script src="assets/vendor/swiper/swiper-bundle.min.js"></script>
+  <script src="assets/vendor/php-email-form/validate.js"></script>
+
+  <script src="assets/js/main.js"></script>
+
+</body>
+
+</html>
