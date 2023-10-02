@@ -44,3 +44,4 @@ Criar dispositivos atuadores para cochos automatizados (suínos) com sistema par
 
 * [Slides do Trabalho](https://docs.google.com/presentation/d/1ZaLsEHJn1hTRz5Ip623cnTbuDlNVGSWGD2L88ijTBTw/edit?usp=sharing)
 * [Vídeo Explicando o Trabalho](https://youtu.be/Zg12RiRtnQs?si=fV54iu4QMZQL1D8R)
+* [Vídeo Explicando o Trabalho "finalizado"](https://www.youtube.com/watch?v=vvxCxvA7ut8)
